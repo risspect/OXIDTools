@@ -1,5 +1,9 @@
 # OXIDTools
 
+![GitHub repo size](https://img.shields.io/github/repo-size/risspect/OXIDTools?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/risspect/OXIDTools?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/risspect/OXIDTools?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/risspect/OXIDTools?style=social)
 
 # Read First
 
@@ -27,5 +31,3 @@ Thank's to
 * 0xyD4ff0x a.k.a A55H0L3 a.k.a Risspect
 * W3LLFR13ND-TEAM
 * etc
-
-![GitHub repo size](https://img.shields.io/github/repo-size/risspect/OXIDTools?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/risspect/OXIDTools?style=flat-square)
