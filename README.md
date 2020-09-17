@@ -1,8 +1,11 @@
 # OXIDTools
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/risspect/OXIDTools?style=flat-square)
+<br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/risspect/OXIDTools?style=flat-square)
+<br>
 ![GitHub stars](https://img.shields.io/github/stars/risspect/OXIDTools?style=social)
+<br>
 ![GitHub watchers](https://img.shields.io/github/watchers/risspect/OXIDTools?style=social)
 
 # Read First
