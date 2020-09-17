@@ -1,6 +1,5 @@
 # OXIDTools
 
-![codename](https://img.shields.io/badge/Codename-0xiD4ff0x-orange?style=for-the-badge&logo=python.svg) [![instagram](https://img.shields.io/badge/Instagram-@risnfd-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfd) [![facebook](https://img.shields.io/badge/Facebook-SDrisna-blue?style=plastic&logo=facebook.svg)](https://facebook.com/exmorty99)
 
 # Read First
 
@@ -25,8 +24,8 @@ EN :
 Thank's to
 ----
 * Allah swt
-* 0xyD4ff0x a.k.a A55H0L3
+* 0xyD4ff0x a.k.a A55H0L3 a.k.a Risspect
 * W3LLFR13ND-TEAM
 * etc
 
-![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/OXIDTools?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/oxyda-fox/OXIDTools?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/risspect/OXIDTools?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/risspect/OXIDTools?style=flat-square)
